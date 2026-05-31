@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-  🌿 coding journey in progress | learning Java & discovering new tech
+  Aspiring developer focused on Java development and exploring modern tech through hands-on learning and projects
 
 
 # 💻 Tech Stack:
